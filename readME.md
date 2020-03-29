@@ -4,10 +4,10 @@
 
 ### Expanding effect
 
-- Using querySelectorAll() to select the classes
-- Looping through with a forEach() loop
+- Using querySelectorAll() to select classes
+- Looping through them with a forEach() loop
 - Using eventListener() to detect clicks
-- Removing 'active' from non active classes
-- Adding 'active' to the element that is clicked
+- Removing active classes from those elements that are not clicked
+- Adding active class to the element that is clicked
 
 ![](/videos/edi_pics.gif)
