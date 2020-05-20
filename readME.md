@@ -11,3 +11,9 @@
 - Adding active class to the element that is clicked
 
 ![](/videos/edi_pics.gif)
+
+## Day 2
+
+### Progress bar
+
+![](/videos/progress_bar.gif)
